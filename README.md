@@ -11,3 +11,7 @@ Add `https://raw.githubusercontent.com/JordanEJ/Onyx-Boox-Blocklist/main/hosts` 
 ## Recomended regex
 `^boox.com$`
 `^onyx-international.cn$`
+`^send2boox.com$`
+`^onyx-avatar-us.oss-us-west-1.aliyuncs.com$`
+`^onyx.edu.oss-cn-shenzhen.aliyuncs.com$`
+`^cn.pool.ntp.org$`
