@@ -37,6 +37,14 @@ onyx-international.cn
 push.boox.com
 send2boox.com
 
+
+^boox.com$ 
+^onyx-international.cn$ 
+^send2boox.com$ 
+^onyx-avatar-us.oss-us-west-1.aliyuncs.com$ 
+^onyx.edu.oss-cn-shenzhen.aliyuncs.com$ 
+^cn.pool.ntp.org$
+
 # --------------------------------------------------
 # Onyx Boox Blocklist by JordanJ
 #
